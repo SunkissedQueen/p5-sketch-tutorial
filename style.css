@@ -1,15 +1,24 @@
-/* align to the left */
+/* centering */
 html, body {
-  margin: 0;
-  padding: 0;
+  max-width: max-content;
+  margin: auto;
 }
 canvas {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /* change size of h1 */
 h1 {
   font-size: 40px;
+  text-align: center;
+}
+
+/* line item style */
+li {
+  list-style-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSk2Hkry4VJHHSE8Oc3aVTH0EPxqmvUdeLaw&usqp=CAU');
 }
 
 /* typewriter animation */
@@ -22,7 +31,9 @@ h1 {
   border-right: .17em solid blue;
   animation: typing 3.5s steps(30, end), blinking-cursor .5s step-end infinite;
   animation-delay: 2s;
+  /* hide text */
   visibility: hidden;
+  list-style-image: url('images/penguin.png');
   animation-fill-mode: forwards;
 }
 
@@ -32,6 +43,7 @@ h1 {
     }
     to {
       width: 100%;
+      /* makes text visible */
       visibility: visible;
     }
   }
