@@ -1,0 +1,47 @@
+/* align to the left */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+/* change size of h1 */
+h1 {
+  font-size: 40px;
+}
+
+/* typewriter animation */
+.typewriter {
+  font-family: monospace;
+  letter-spacing: .1em;
+  margin: 0 auto;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: .17em solid blue;
+  animation: typing 3.5s steps(30, end), blinking-cursor .5s step-end infinite;
+  animation-delay: 2s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+      visibility: visible;
+    }
+  }
+
+  @keyframes blinking-cursor {
+    from,
+    to {
+      border-color: transparent
+    }
+    50% {
+      border-color: blue;
+    }
+  }
