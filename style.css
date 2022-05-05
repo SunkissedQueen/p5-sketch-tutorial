@@ -16,11 +16,6 @@ h1 {
   text-align: center;
 }
 
-/* line item style */
-li {
-  list-style-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSk2Hkry4VJHHSE8Oc3aVTH0EPxqmvUdeLaw&usqp=CAU');
-}
-
 /* typewriter animation */
 .typewriter {
   font-family: monospace;
@@ -31,9 +26,11 @@ li {
   border-right: .17em solid blue;
   animation: typing 3.5s steps(30, end), blinking-cursor .5s step-end infinite;
   animation-delay: 2s;
+  /* change line item image */
+  list-style-image: url('images/penguin.png');
   /* hide text */
   visibility: hidden;
-  list-style-image: url('images/penguin.png');
+  /* maintain the last key frame */
   animation-fill-mode: forwards;
 }
 
