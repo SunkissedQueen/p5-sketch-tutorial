@@ -2,6 +2,7 @@
 html, body {
   max-width: max-content;
   margin: auto;
+  background-color: rgb(184, 217, 246);
 }
 canvas {
   display: block;

@@ -2,7 +2,7 @@
 ## Status - still in progress
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -24,15 +24,16 @@
 [![MIT License][license-shield]][license-url]
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/cmb-charlean-baxter/)
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icypage.png" alt="Logo" width="150" height="150">
   </a>
 <h3 align="center">p5 Sketch Tutorial</h3>
   <p align="center">
-    project_description
+    Through the use of p5.js, a static page was transformed into one that has snow falling, text that flies around, and instructions that enter with a typewriter effect.
     <br />
     <a href="https://github.com/SunkissedQueen/p5-sketch-tutorial"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,27 +70,41 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 <!-- ABOUT THE PROJECT -->
 
+```
+Let creativity fill your soul
+Let inspiration run through your veins
+Let's make art in any way possible
+And together
+Give the grey people a bit of our colour
+By Angela Simone
+```
 ## About The Project
 
-![p5 Sketch Example](images/icypage.png)
+Creativity is a wondrous tool in web development. The more we as developers expose ourselves to different approaches, the more effective and exciting our applications become. This colorful notion of expressive coding lives vividly in p5.js.
+
+p5.js is a free and open-source JavaScript library that makes coding accessible to everyone. This creative software allows a browser page to be used as a drawing canvas. Its functionality goes beyond the sketchpad and allows interaction with other HTML elements, such as text, user inputs, videos, and sounds.
 
 <p align="right">(<a href="#top">back to top</a>)</p>  
   
 ### Built With
-* [p5.js](https://nextjs.org/)
+* [p5.js](https://happycoding.io/tutorials/p5js/)
+* [html](https://www.w3schools.com/html/)
+* [css](https://www.w3schools.com/w3css/defaulT.asp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these [steps](https://p5js.org/get-started/).
+
 ### Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* [p5.js web editor](https://editor.p5js.org/)
+* [p5.js reference](https://p5js.org/reference/)
+* [p5.js tutorials](https://happycoding.io/tutorials/p5js/)
+
 
 ### Installation
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -110,8 +125,8 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-_For more examples, please refer to the [Documentation](https://example.com)_
+Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+_For more examples, please refer to the [Documentation](https://showcase.p5js.org/#/2021-All)_
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -162,6 +177,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+https://happycoding.io/tutorials/p5js/
+
+https://erraticgenerator.com/blog/animate-word-by-word-in-p5js/
+
+https://www.youtube.com/watch?v=ZneWjyn18e8
+
+https://www.w3schools.com
+
+https://www.w3docs.com/snippets/css/how-to-create-a-typewriter-text-with-only-css.html
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
