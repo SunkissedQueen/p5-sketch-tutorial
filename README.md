@@ -74,14 +74,11 @@ To get a local copy up and running follow these [steps](https://p5js.org/get-sta
 * [p5.js reference](https://p5js.org/reference/)
 * [p5.js tutorials](https://happycoding.io/tutorials/p5js/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 _For more examples, please refer to the [Documentation](https://showcase.p5js.org/#/2021-All)_
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -101,15 +98,10 @@ _For more examples, please refer to the [Documentation](https://showcase.p5js.or
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
-
 * [Happy Coding](https://happycoding.io/tutorials/p5js/)
-
 * [Word Animation p5js](https://erraticgenerator.com/blog/animate-word-by-word-in-p5js/)
-
 * [Coding Train GitHub Pages](https://www.youtube.com/watch?v=ZneWjyn18e8)
-
 * [W3Schools](https://www.w3schools.com)
-
 * [Typewriter Text Animation](https://www.w3docs.com/snippets/css/how-to-create-a-typewriter-text-with-only-css.html)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
