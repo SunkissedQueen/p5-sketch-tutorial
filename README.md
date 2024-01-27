@@ -49,7 +49,7 @@ p5.js is a free and open-source JavaScript library that makes coding accessible 
   </a>
 <h3 align="center">p5 Sketch Tutorial</h3>
   <p align="center">
-    Through the use of p5.js, a static page was transformed into one that has snow falling, text that flies around, and instructions that enter with a typewriter effect.
+    Through the use of p5.js, a static page was transformed into one that has snow falling, text that flies around, and instructions that enter with a typewriter effect. The goal of the user interaction is first to when the key that will cause the text to be scrambled then find the key that will allow the characters to realign correctly.
     <br />
     <a href="https://github.com/SunkissedQueen/p5-sketch-tutorial"><strong>Explore the docs »</strong></a>
     <br />
